@@ -1,0 +1,20 @@
+{
+	"name": "teste-target",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/fabiooliveira1007/teste-target#readme",
+	"bugs": {
+		"url": "https://github.com/fabiooliveira1007/teste-target/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fabiooliveira1007/teste-target.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "module",
+	"main": "exercicio-1.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
